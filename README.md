@@ -64,8 +64,8 @@ Además de la predicción binaria, el pipeline expone la **probabilidad de riesg
 
 ```bash
 # Clonar el repositorio
-git clone <URL-de-tu-repo>
-cd <nombre-repo>
+git clone <https://github.com/haroldrodriguezadm-png/Modelo_predictivo_en_Apache_Spark_MLlib>
+cd <Modelo_predictivo_en_Apache_Spark_MLlib>
 
 # Instalar dependencias
 pip install pyspark
