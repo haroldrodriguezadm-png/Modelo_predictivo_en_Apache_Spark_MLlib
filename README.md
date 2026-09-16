@@ -94,4 +94,4 @@ El notebook espera el archivo de datos en la ruta indicada en la variable `ruta`
 - **Próximos pasos:** validación cruzada y ajuste de hiperparámetros (`numTrees`, `maxDepth`, `minInstancesPerNode`) con `CrossValidator`, selección de variables, evaluación con métricas específicas de detección de anomalías (Precision y Recall de la clase riesgosa), y persistencia del modelo entrenado para inferencia en producción.
 
 ## 👤 Autor
-Harold Rodríguez B. — [LinkedIn](https://www.linkedin.com/in/harold-rodriguez-boisset/)) · [Portafolio](https://tu-portafolio.com)
+Harold Rodríguez B. — [LinkedIn](https://www.linkedin.com/in/harold-rodriguez-boisset/) 
